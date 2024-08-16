@@ -11,4 +11,3 @@
 |    Custom Application using Salesforce Cloud    |                       [Link](https://youtu.be/XL0MSkNSl8E)                      | Video only |
 | Firebase Auth and Google App engine Environment | [Link Ref 1](https://youtu.be/aN1LnNq4z54), [Link Ref 2](https://youtu.be/VP4hR3LSXGg) | Video Only |
 
-![YouTube](https://img.shields.io/badge/Gloud_Genix-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
